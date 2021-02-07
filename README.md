@@ -1,5 +1,5 @@
 # Javascript Beginner
 
-Hello Friend,
+Hello folks,
 Hope you are doing well,
 This tutorial is for the beginer of Javascript.
